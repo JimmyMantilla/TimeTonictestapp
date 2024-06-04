@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timetonic</string>
+    <string name="user_label">Email</string>
+    <string name="password_label">Contraseña</string>
+    <string name="login_input_empty">Campo vacio</string>
+    <string name="login_button">Login</string>
+    <string name="login_msg">Empodera tu organizacion!</string>
+    <string name="no_title">Este elemento no tiene titulo</string>
+    <string name="description">Descripcion:</string>
+    <!--Landing page-->
+    <string name="books">Mis libros</string>
+</resources>

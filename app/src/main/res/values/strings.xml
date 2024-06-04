@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timetonic</string>
+    <string name="user_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_input_empty">Field is blank</string>
+    <string name="login_button">Login</string>
+    <string name="login_msg">Empower your organization!</string>
+    <string name="no_title">This element has no title</string>
+    <string name="description">Description:</string>
+    <!--Landing page-->
+    <string name="books">My Books</string>
+</resources>
